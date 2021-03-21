@@ -131,7 +131,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.myapp"
+        applicationId "org.reactjs.native.example.myapp"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1
