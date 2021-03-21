@@ -2,74 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fae0c7f5-bec9-4c14-a8eb-b54bf43dad89" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/Pods/Pods.xcodeproj/xcuserdata/shirish.xcuserdatad/xcschemes/Pods-myApp-myAppTests.xcscheme" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/Pods/Pods.xcodeproj/xcuserdata/shirish.xcuserdatad/xcschemes/Pods-myApp.xcscheme" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/Pods/Target Support Files/Pods-myApp-myAppTests/Pods-myApp-myAppTests-acknowledgements.markdown" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/Pods/Target Support Files/Pods-myApp-myAppTests/Pods-myApp-myAppTests-acknowledgements.plist" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/Pods/Target Support Files/Pods-myApp-myAppTests/Pods-myApp-myAppTests-dummy.m" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/Pods/Target Support Files/Pods-myApp-myAppTests/Pods-myApp-myAppTests-frameworks-Debug-input-files.xcfilelist" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/Pods/Target Support Files/Pods-myApp-myAppTests/Pods-myApp-myAppTests-frameworks-Debug-output-files.xcfilelist" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/Pods/Target Support Files/Pods-myApp-myAppTests/Pods-myApp-myAppTests-frameworks-Release-input-files.xcfilelist" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/Pods/Target Support Files/Pods-myApp-myAppTests/Pods-myApp-myAppTests-frameworks-Release-output-files.xcfilelist" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/Pods/Target Support Files/Pods-myApp-myAppTests/Pods-myApp-myAppTests-frameworks.sh" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/Pods/Target Support Files/Pods-myApp-myAppTests/Pods-myApp-myAppTests-resources-Debug-input-files.xcfilelist" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/Pods/Target Support Files/Pods-myApp-myAppTests/Pods-myApp-myAppTests-resources-Debug-output-files.xcfilelist" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/Pods/Target Support Files/Pods-myApp-myAppTests/Pods-myApp-myAppTests-resources-Release-input-files.xcfilelist" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/Pods/Target Support Files/Pods-myApp-myAppTests/Pods-myApp-myAppTests-resources-Release-output-files.xcfilelist" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/Pods/Target Support Files/Pods-myApp-myAppTests/Pods-myApp-myAppTests-resources.sh" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/Pods/Target Support Files/Pods-myApp-myAppTests/Pods-myApp-myAppTests-umbrella.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/Pods/Target Support Files/Pods-myApp-myAppTests/Pods-myApp-myAppTests.debug.xcconfig" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/Pods/Target Support Files/Pods-myApp-myAppTests/Pods-myApp-myAppTests.modulemap" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/Pods/Target Support Files/Pods-myApp-myAppTests/Pods-myApp-myAppTests.release.xcconfig" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/Pods/Target Support Files/Pods-myApp/Pods-myApp-acknowledgements.markdown" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/Pods/Target Support Files/Pods-myApp/Pods-myApp-acknowledgements.plist" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/Pods/Target Support Files/Pods-myApp/Pods-myApp-dummy.m" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/Pods/Target Support Files/Pods-myApp/Pods-myApp-frameworks-Debug-input-files.xcfilelist" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/Pods/Target Support Files/Pods-myApp/Pods-myApp-frameworks-Debug-output-files.xcfilelist" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/Pods/Target Support Files/Pods-myApp/Pods-myApp-frameworks-Release-input-files.xcfilelist" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/Pods/Target Support Files/Pods-myApp/Pods-myApp-frameworks-Release-output-files.xcfilelist" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/Pods/Target Support Files/Pods-myApp/Pods-myApp-frameworks.sh" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/Pods/Target Support Files/Pods-myApp/Pods-myApp-resources-Debug-input-files.xcfilelist" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/Pods/Target Support Files/Pods-myApp/Pods-myApp-resources-Debug-output-files.xcfilelist" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/Pods/Target Support Files/Pods-myApp/Pods-myApp-resources-Release-input-files.xcfilelist" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/Pods/Target Support Files/Pods-myApp/Pods-myApp-resources-Release-output-files.xcfilelist" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/Pods/Target Support Files/Pods-myApp/Pods-myApp-resources.sh" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/Pods/Target Support Files/Pods-myApp/Pods-myApp-umbrella.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/Pods/Target Support Files/Pods-myApp/Pods-myApp.debug.xcconfig" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/Pods/Target Support Files/Pods-myApp/Pods-myApp.modulemap" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/Pods/Target Support Files/Pods-myApp/Pods-myApp.release.xcconfig" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/android/app/src/debug/java/com/myapp/ReactNativeFlipper.java" afterPath="$PROJECT_DIR$/android/app/src/debug/java/org/reactjs/native/example/myapp/ReactNativeFlipper.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/android/app/src/main/java/com/myapp/MainActivity.java" afterPath="$PROJECT_DIR$/android/app/src/main/java/org/reactjs/native/example/myapp/MainActivity.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/android/app/src/main/java/com/myapp/MainApplication.java" afterPath="$PROJECT_DIR$/android/app/src/main/java/org/reactjs/native/example/myapp/MainApplication.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ios/myApp.xcodeproj/project.pbxproj" afterPath="$PROJECT_DIR$/ios/moreTesla.xcodeproj/project.pbxproj" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ios/myApp.xcodeproj/xcshareddata/xcschemes/myApp.xcscheme" afterPath="$PROJECT_DIR$/ios/moreTesla.xcodeproj/xcshareddata/xcschemes/moreTesla.xcscheme" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ios/myApp.xcworkspace/contents.xcworkspacedata" afterPath="$PROJECT_DIR$/ios/moreTesla.xcworkspace/contents.xcworkspacedata" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ios/myApp.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterPath="$PROJECT_DIR$/ios/moreTesla.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ios/myApp.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" afterPath="$PROJECT_DIR$/ios/moreTesla.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ios/myApp.xcworkspace/xcuserdata/shirish.xcuserdatad/UserInterfaceState.xcuserstate" afterPath="$PROJECT_DIR$/ios/moreTesla.xcworkspace/xcuserdata/shirish.xcuserdatad/UserInterfaceState.xcuserstate" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ios/myApp.xcworkspace/xcuserdata/shirish.xcuserdatad/WorkspaceSettings.xcsettings" afterPath="$PROJECT_DIR$/ios/moreTesla.xcworkspace/xcuserdata/shirish.xcuserdatad/WorkspaceSettings.xcsettings" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ios/myApp/AppDelegate.h" afterPath="$PROJECT_DIR$/ios/moreTesla/AppDelegate.h" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ios/myApp/AppDelegate.m" afterPath="$PROJECT_DIR$/ios/moreTesla/AppDelegate.m" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ios/myApp/Images.xcassets/AppIcon.appiconset/Contents.json" afterPath="$PROJECT_DIR$/ios/moreTesla/Images.xcassets/AppIcon.appiconset/Contents.json" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ios/myApp/Images.xcassets/Contents.json" afterPath="$PROJECT_DIR$/ios/moreTesla/Images.xcassets/Contents.json" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ios/myApp/Info.plist" afterPath="$PROJECT_DIR$/ios/moreTesla/Info.plist" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ios/myApp/LaunchScreen.storyboard" afterPath="$PROJECT_DIR$/ios/moreTesla/LaunchScreen.storyboard" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ios/myApp/main.m" afterPath="$PROJECT_DIR$/ios/moreTesla/main.m" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ios/myAppTests/Info.plist" afterPath="$PROJECT_DIR$/ios/moreTeslaTests/Info.plist" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ios/myAppTests/myAppTests.m" afterPath="$PROJECT_DIR$/ios/moreTeslaTests/moreTeslaTests.m" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android/app/BUCK" afterPath="$PROJECT_DIR$/android/app/BUCK" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android/app/build.gradle" afterPath="$PROJECT_DIR$/android/app/build.gradle" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android/app/src/main/AndroidManifest.xml" afterPath="$PROJECT_DIR$/android/app/src/main/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android/app/src/main/res/values/strings.xml" afterPath="$PROJECT_DIR$/android/app/src/main/res/values/strings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android/settings.gradle" afterPath="$PROJECT_DIR$/android/settings.gradle" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app.json" afterPath="$PROJECT_DIR$/app.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/Podfile" afterPath="$PROJECT_DIR$/ios/Podfile" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/Podfile.lock" afterPath="$PROJECT_DIR$/ios/Podfile.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/Pods/Manifest.lock" afterPath="$PROJECT_DIR$/ios/Pods/Manifest.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/Pods/Pods.xcodeproj/project.pbxproj" afterPath="$PROJECT_DIR$/ios/Pods/Pods.xcodeproj/project.pbxproj" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/Pods/Pods.xcodeproj/xcuserdata/shirish.xcuserdatad/xcschemes/xcschememanagement.plist" afterPath="$PROJECT_DIR$/ios/Pods/Pods.xcodeproj/xcuserdata/shirish.xcuserdatad/xcschemes/xcschememanagement.plist" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="" />
     </list>
     <ignored path="more-tesla.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -135,8 +68,8 @@
       <file leaf-file-name="package.json" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.984252">
-              <caret line="64" column="32" selection-start-line="64" selection-start-column="32" selection-end-line="64" selection-end-column="32" />
+            <state vertical-scroll-proportion="0.63241106">
+              <caret line="52" column="36" selection-start-line="52" selection-start-column="36" selection-end-line="52" selection-end-column="36" />
               <folding />
             </state>
           </provider>
@@ -144,14 +77,12 @@
       </file>
     </leaf>
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
       <list>
-        <option value="package_json" />
+        <option value="shirish" />
       </list>
     </option>
-  </component>
-  <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
@@ -197,7 +128,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -233,6 +163,7 @@
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -296,9 +227,6 @@
     </configuration>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
-  <component name="SvnConfiguration">
-    <configuration />
-  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="fae0c7f5-bec9-4c14-a8eb-b54bf43dad89" name="Default" comment="" />
@@ -306,6 +234,13 @@
       <option name="number" value="Default" />
       <updated>1616178734565</updated>
     </task>
+    <task id="LOCAL-00001" summary="remove webstorm files">
+      <created>1616361171870</created>
+      <option name="number" value="00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1616361171870</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -314,10 +249,11 @@
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2494043" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23497267" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23561645" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2363388" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23561645" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -331,16 +267,12 @@
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
-  <component name="Vcs.Log.UiProperties">
-    <option name="RECENTLY_FILTERED_USER_GROUPS">
-      <collection />
-    </option>
-    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
-      <collection />
-    </option>
-  </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="remove webstorm files" />
+    <option name="LAST_COMMIT_MESSAGE" value="remove webstorm files" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -381,6 +313,40 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/LICENSE">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.babelrc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="4" column="1" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="23" column="12" selection-start-line="23" selection-start-column="12" selection-end-line="23" selection-end-column="12" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -593,8 +559,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.984252">
-          <caret line="64" column="32" selection-start-line="64" selection-start-column="32" selection-end-line="64" selection-end-column="32" />
+        <state vertical-scroll-proportion="0.63241106">
+          <caret line="52" column="36" selection-start-line="52" selection-start-column="36" selection-end-line="52" selection-end-column="36" />
           <folding />
         </state>
       </provider>
