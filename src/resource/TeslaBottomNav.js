@@ -1,9 +1,10 @@
 import * as React from 'react';
 import { Text, View } from 'react-native';
-import { NavigationContainer } from '@react-navigation/native';
 import { createBottomTabNavigator } from '@react-navigation/bottom-tabs';
 import MaterialCommunityIcons from 'react-native-vector-icons/MaterialCommunityIcons';
-import { TestPageContainer } from '../resource/test/view/test.container';
+import { TeslaVoice } from './tesla-voice-example/tesla-voice.component.js';
+import { TeslaVoiceBuild } from './tesla-voice-example/tesla-voice-build.component.js';
+import { TeslaSpeak } from './tesla-voice-example/tesla-speak.component.js';
 
 function Feed() {
     return (
@@ -41,7 +42,7 @@ function TeslaBottomNav() {
         >
             <Tab.Screen
                 name="Feed"
-                component={Feed}
+                component={TeslaVoice}
                 options={{
           tabBarLabel: 'Home',
           tabBarIcon: ({ color, size }) => {
@@ -51,7 +52,7 @@ function TeslaBottomNav() {
             />
             <Tab.Screen
                 name="Notifications"
-                component={Notifications}
+                component={TeslaSpeak}
                 options={{
           tabBarLabel: 'Updates',
           tabBarIcon: ({ color, size }) => (
@@ -61,7 +62,7 @@ function TeslaBottomNav() {
             />
             <Tab.Screen
                 name="Profile"
-                component={TestPageContainer}
+                component={TeslaVoiceBuild}
                 options={{
           tabBarLabel: 'Profile',
           tabBarIcon: ({ color, size }) => (
